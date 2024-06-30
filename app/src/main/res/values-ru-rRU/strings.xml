@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Задание1</string>
+    <string name="go_button">Поехали!</string>
+    <string name="enter_count">Введите количекество машин</string>
+    <string name="hello_world">Кто придёт первый!?</string>
+</resources>
